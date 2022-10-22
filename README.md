@@ -41,4 +41,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Felipe Johnson</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://github.com/felipejohnson/">Felipe Johnson</a> ☕</h3>
