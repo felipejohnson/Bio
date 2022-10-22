@@ -19,7 +19,7 @@ Bio contendo os links das minhas redes sociais.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React JS.
-- CSS3.
+- CSS.
 - HTML.
 
 <br>
