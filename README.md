@@ -2,7 +2,7 @@
   Bio - Felipe Johnson ☕
 </h1>
 
-![Resultado final do projeto](/images/final.png)
+![Resultado final do projeto](images/final.png)
 
 <br>
 
