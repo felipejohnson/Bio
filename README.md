@@ -2,7 +2,7 @@
   Bio - Felipe Johnson ☕
 </h1>
 
-![Resultado final do projeto](images/finall.png)
+![Resultado final do projeto](https://user-images.githubusercontent.com/112385665/199586640-54330fc7-a32f-4c1a-a521-d81cadee2688.png)
 
 <br>
 
@@ -19,9 +19,8 @@ Bio contendo os links das minhas redes sociais.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript.
-- TailwindCSS.
 - CSS.
-- HTML.
+- HTML5.
 
 <br>
 
